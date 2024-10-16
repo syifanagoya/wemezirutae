@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wemezirutae.pages.dev/sitemap.xml
